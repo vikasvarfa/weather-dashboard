@@ -34,7 +34,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/weather-dashboard.git
+    git clone https://github.com/vikasvarfa/weather-dashboard.git
     cd weather-dashboard
     ```
 
