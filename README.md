@@ -94,21 +94,4 @@ Make sure you have the following installed on your machine:
 4. Click the "Toggle to Fahrenheit/Celsius" button to switch between units.
 
 ## Project Structure
-
-weather-dashboard/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Search.js
-│ │ ├── WeatherDisplay.js
-│ │ ├── Favorites.js
-│ │ ├── ForecastDisplay.js
-│ │ ├── WeatherDashboard.js
-│ ├── App.js
-│ ├── index.js
-│ ├── index.css
-│ ├── App.css
-├── db.json
-├── package.json
-├── .env
-└── README.md
+ 
