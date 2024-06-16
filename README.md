@@ -1,5 +1,8 @@
 # Weather Dashboard
 
+## Video
+https://github.com/vikasvarfa/weather-dashboard/assets/101801409/16659ae5-cfcf-46f7-bf41-0749f7084cac
+
 ## Description
 
 A Weather Dashboard application built with React that shows the current weather and a 5-day forecast for a given city. It allows users to search for a city, view weather details, add cities to a list of favorites, and manage these favorites. The application uses the OpenWeatherMap API for fetching weather data and a JSON server to store and retrieve favorite cities. The UI is styled using Bootstrap for responsiveness and interactivity.
