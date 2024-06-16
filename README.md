@@ -95,3 +95,20 @@ Make sure you have the following installed on your machine:
 
 ## Project Structure
 
+weather-dashboard/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Search.js
+│ │ ├── WeatherDisplay.js
+│ │ ├── Favorites.js
+│ │ ├── ForecastDisplay.js
+│ │ ├── WeatherDashboard.js
+│ ├── App.js
+│ ├── index.js
+│ ├── index.css
+│ ├── App.css
+├── db.json
+├── package.json
+├── .env
+└── README.md
