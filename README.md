@@ -68,15 +68,8 @@ Make sure you have the following installed on your machine:
     npm run json-server
     ```
 
-6. **Add your OpenWeatherMap API key:**
 
-    Create a `.env` file in the root directory and add your OpenWeatherMap API key:
-
-    ```env
-    REACT_APP_OPENWEATHERMAP_API_KEY=your_api_key_here
-    ```
-
-7. **Start the React application:**
+6. **Start the React application:**
 
     Open a terminal and run the following command:
 
